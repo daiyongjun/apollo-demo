@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "app.id",
+      "type": "java.lang.String",
+      "description": "Description for app.id."
+    },
+    {
+      "name": "apollo.meta",
+      "type": "java.lang.String",
+      "description": "Description for apollo.meta."
+    }
+  ]
+}

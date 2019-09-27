@@ -1,0 +1,49 @@
+{
+  "properties": [
+    {
+      "name": "spring.custom.elasticsearch.config1.password",
+      "type": "java.lang.String",
+      "description": "Description for spring.custom.elasticsearch.config1.password."
+    },
+    {
+      "name": "spring.custom.elasticsearch.config1.username",
+      "type": "java.lang.String",
+      "description": "Description for spring.custom.elasticsearch.config1.username."
+    },
+    {
+      "name": "spring.custom.elasticsearch.config1.hosts",
+      "type": "java.lang.String",
+      "description": "Description for spring.custom.elasticsearch.config1.hosts."
+    },
+    {
+      "name": "spring.custom.elasticsearch.names",
+      "type": "java.lang.String",
+      "description": "Description for spring.custom.elasticsearch.names."
+    },
+    {
+      "name": "spring.custom.elasticsearch.config2.hosts",
+      "type": "java.lang.String",
+      "description": "Description for spring.custom.elasticsearch.config2.hosts."
+    },
+    {
+      "name": "spring.custom.elasticsearch.config2.username",
+      "type": "java.lang.String",
+      "description": "Description for spring.custom.elasticsearch.config2.username."
+    },
+    {
+      "name": "spring.custom.elasticsearch.config2.password",
+      "type": "java.lang.String",
+      "description": "Description for spring.custom.elasticsearch.config2.password."
+    },
+    {
+      "name": "apollo.meta",
+      "type": "java.lang.String",
+      "description": "Description for apollo.meta."
+    },
+    {
+      "name": "app.id",
+      "type": "java.lang.String",
+      "description": "Description for app.id."
+    }
+  ]
+}

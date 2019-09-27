@@ -1,0 +1,88 @@
+{
+  "properties": [
+    {
+      "name": "spring.datasource.other.password",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasource.other.password."
+    },
+    {
+      "name": "spring.datasource.other.username",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasource.other.username."
+    },
+    {
+      "name": "spring.datasource.other.driver-class-name",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasource.other.driver-class-name."
+    },
+    {
+      "name": "spring.datasource.other.jdbc-url",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasource.other.jdbc-url."
+    },
+    {
+      "name": "spring.datasource.jdbc-url",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasource.jdbc-url."
+    },
+    {
+      "name": "spring.custom.datasource.name",
+      "type": "java.lang.String",
+      "description": "Description for spring.custom.datasource.name."
+    },
+    {
+      "name": "spring.custom.datasource.db1.name",
+      "type": "java.lang.String",
+      "description": "Description for spring.custom.datasource.db1.name."
+    },
+    {
+      "name": "spring.custom.datasource.db1.jdbc-url",
+      "type": "java.lang.String",
+      "description": "Description for spring.custom.datasource.db1.jdbc-url."
+    },
+    {
+      "name": "spring.custom.datasource.db1.driver-class-name",
+      "type": "java.lang.String",
+      "description": "Description for spring.custom.datasource.db1.driver-class-name."
+    },
+    {
+      "name": "spring.custom.datasource.db1.username",
+      "type": "java.lang.String",
+      "description": "Description for spring.custom.datasource.db1.username."
+    },
+    {
+      "name": "spring.custom.datasource.db1.password",
+      "type": "java.lang.String",
+      "description": "Description for spring.custom.datasource.db1.password."
+    },
+    {
+      "name": "spring.custom.datasource.db2.name",
+      "type": "java.lang.String",
+      "description": "Description for spring.custom.datasource.db2.name."
+    },
+    {
+      "name": "spring.custom.datasource.db2.jdbc-url",
+      "type": "java.lang.String",
+      "description": "Description for spring.custom.datasource.db2.jdbc-url."
+    },
+    {
+      "name": "spring.custom.datasource.db2.driver-class-name",
+      "type": "java.lang.String",
+      "description": "Description for spring.custom.datasource.db2.driver-class-name."
+    },
+    {
+      "name": "spring.custom.datasource.db2.username",
+      "type": "java.lang.String",
+      "description": "Description for spring.custom.datasource.db2.username."
+    },
+    {
+      "name": "spring.custom.datasource.db2.password",
+      "type": "java.lang.String",
+      "description": "Description for spring.custom.datasource.db2.password."
+    },
+    {
+      "name": "spring.custom.datasource.names",
+      "type": "java.lang.String",
+      "description": "Description for spring.custom.datasource.names."
+    }
+  ] }
