@@ -1,4 +1,4 @@
-package com.weiyan.example.apollo.demo.dynamic.logbak.dynamic.logback.es.client.annotation;
+package com.weiyan.example.apollo.demo.dynamic.es.client.annotation;
 
 import java.lang.annotation.*;
 

@@ -1,7 +1,7 @@
-package com.weiyan.example.apollo.demo.dynamic.logbak.dynamic.logback.es.client.aop;
+package com.weiyan.example.apollo.demo.dynamic.es.client.aop;
 
-import com.weiyan.example.apollo.demo.dynamic.logbak.dynamic.logback.es.client.annotation.DataSourceAnnotation;
-import com.weiyan.example.apollo.demo.dynamic.logbak.dynamic.logback.es.client.client.DynamicRestClientHolder;
+import com.weiyan.example.apollo.demo.dynamic.es.client.annotation.DataSourceAnnotation;
+import com.weiyan.example.apollo.demo.dynamic.es.client.client.DynamicRestClientHolder;
 import org.aspectj.lang.JoinPoint;
 import org.aspectj.lang.annotation.After;
 import org.aspectj.lang.annotation.Aspect;

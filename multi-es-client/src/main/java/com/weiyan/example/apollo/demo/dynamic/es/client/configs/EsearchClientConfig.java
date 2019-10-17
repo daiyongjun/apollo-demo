@@ -1,9 +1,9 @@
-package com.weiyan.example.apollo.demo.dynamic.logbak.dynamic.logback.es.client.configs;
+package com.weiyan.example.apollo.demo.dynamic.es.client.configs;
 
 import com.ctrip.framework.apollo.model.ConfigChangeEvent;
 import com.ctrip.framework.apollo.spring.annotation.ApolloConfigChangeListener;
-import com.weiyan.example.apollo.demo.dynamic.logbak.dynamic.logback.es.client.client.DynamicRestClient;
-import com.weiyan.example.apollo.demo.dynamic.logbak.dynamic.logback.es.client.client.DynamicRestClientHolder;
+import com.weiyan.example.apollo.demo.dynamic.es.client.client.DynamicRestClient;
+import com.weiyan.example.apollo.demo.dynamic.es.client.client.DynamicRestClientHolder;
 import org.apache.commons.lang3.concurrent.BasicThreadFactory;
 import org.apache.http.HttpHost;
 import org.apache.http.auth.AuthScope;

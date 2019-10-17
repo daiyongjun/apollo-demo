@@ -1,4 +1,4 @@
-package com.weiyan.example.apollo.demo.dynamic.logbak.dynamic.logback.es.client.client;
+package com.weiyan.example.apollo.demo.dynamic.es.client.client;
 
 
 import org.elasticsearch.client.RestClient;

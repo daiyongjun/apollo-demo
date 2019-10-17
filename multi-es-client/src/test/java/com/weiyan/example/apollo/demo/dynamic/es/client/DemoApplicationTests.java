@@ -1,6 +1,6 @@
-package com.weiyan.example.apollo.demo.dynamic.logbak.dynamic.logback.es.client;
+package com.weiyan.example.apollo.demo.dynamic.es.client;
 
-import com.weiyan.example.apollo.demo.dynamic.logbak.dynamic.logback.es.client.configs.CustomConfig;
+import com.weiyan.example.apollo.demo.dynamic.es.client.configs.CustomConfig;
 import org.apache.commons.lang3.concurrent.BasicThreadFactory;
 import org.junit.Test;
 import org.junit.runner.RunWith;

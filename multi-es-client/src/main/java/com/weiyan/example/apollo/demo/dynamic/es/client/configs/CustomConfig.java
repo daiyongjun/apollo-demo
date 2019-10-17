@@ -1,7 +1,7 @@
-package com.weiyan.example.apollo.demo.dynamic.logbak.dynamic.logback.es.client.configs;
+package com.weiyan.example.apollo.demo.dynamic.es.client.configs;
 
-import com.weiyan.example.apollo.demo.dynamic.logbak.dynamic.logback.es.client.annotation.DataSourceAnnotation;
-import com.weiyan.example.apollo.demo.dynamic.logbak.dynamic.logback.es.client.client.DynamicRestClient;
+import com.weiyan.example.apollo.demo.dynamic.es.client.annotation.DataSourceAnnotation;
+import com.weiyan.example.apollo.demo.dynamic.es.client.client.DynamicRestClient;
 import org.apache.http.HttpEntity;
 import org.apache.http.entity.ContentType;
 import org.apache.http.nio.entity.NStringEntity;

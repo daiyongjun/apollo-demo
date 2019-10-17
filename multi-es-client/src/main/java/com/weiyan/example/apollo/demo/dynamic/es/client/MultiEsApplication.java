@@ -1,4 +1,4 @@
-package com.weiyan.example.apollo.demo.dynamic.logbak.dynamic.logback.es.client;
+package com.weiyan.example.apollo.demo.dynamic.es.client;
 
 import com.ctrip.framework.apollo.spring.annotation.EnableApolloConfig;
 import org.springframework.boot.SpringApplication;
