@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration scan="true">
+
+    <contextName>springboot-jwt</contextName>
+    <include resource="org/springframework/boot/logging/logback/defaults.xml"/>
+    <property name="logging.lever.root" value="info" />
+    <property name="spring.application.name" value="crawler-interface"/>
+    <property name="logging.pattern.file" value="${FILE_LOG_PATTERN}"/>
+    <property name="logging.pattern.console" value="${CONSOLE_LOG_PATTERN}"/>
+
+    <root level="${logging.level.root}">
+        <appender-ref ref="console"/>
+    </root>
+</configuration>
